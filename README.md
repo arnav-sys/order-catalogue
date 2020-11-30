@@ -1,4 +1,4 @@
-# AMAZON CLONE #
+
 
 ## Technologies used ##
 
@@ -15,7 +15,6 @@
 
 ## Features ##
 
-1. Firebase Authentication (Register/Login/Logout)
 2. Add items to the basekt
 3. Remove items from the basket
 4. Dynamically chaning the basket total according to the items in the basket
